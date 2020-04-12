@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994325647797",
+    "firebase_url": "https://flutterapppp.firebaseio.com",
+    "project_id": "flutterapppp",
+    "storage_bucket": "flutterapppp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994325647797:android:7ba0b30edae6e75e8409fc",
+        "android_client_info": {
+          "package_name": "praveen.flutterapppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994325647797-9pfogsmj4t8igu770cu73q28a4g9j7fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCigm7xN_kj0jMKctGoWINJBNI04QFdz2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994325647797-9pfogsmj4t8igu770cu73q28a4g9j7fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
